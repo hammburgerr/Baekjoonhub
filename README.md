@@ -1,2 +1,2 @@
 # Baekjoonhub
-Algorithm with Baek 🍔
+🍔 Algorithm with Baek
